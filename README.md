@@ -37,11 +37,29 @@ Infochimps has different datasets that people can access (some maybe paid)
 Kaggle is a company that provides data science competitions. They offer datasets to be analysed in these competitions, some of which can be particularly useful  
 * [http://www.kaggle.com/](http://www.kaggle.com/)
 
-## Collections by data scientists
-
+# Collections by data scientists
+Collection of datasets put together by data scientists.
 * Hilary Mason http://bitly.com/bundles/hmason/1
 * Peter Skomoroch https://delicious.com/pskomoroch/dataset
 * Jeff Hammerbacher http://www.quora.com/Jeff-Hammerbacher/Introduction-to-Data-Science-Data-Sets
 * Gregory Piatetsky-Shapiro http://www.kdnuggets.com/gps.html
 * [http://blog.mortardata.com/post/67652898761/6-dataset-lists-curated-by-data-scientists](http://blog.mortardata.com/post/67652898761/6-dataset-lists-curated-by-data-scientists)
 
+# More specialized collections
+Other data resources that has a variety of data sets
+* [Stanford Large Network Data](http://snap.stanford.edu/data/)
+* [UCI Machine Learning](http://archive.ics.uci.edu/ml/)
+* [KDD Nugets Datasets](http://www.kdnuggets.com/datasets/index.html)
+* [CMU Statlib](http://lib.stat.cmu.edu/datasets/)
+* [Gene expression omnibus](http://www.ncbi.nlm.nih.gov/geo/)
+* [ArXiv Data](http://arxiv.org/help/bulk_data)
+* [Public Data Sets on Amazon Web Services](http://aws.amazon.com/publicdatasets/)
+
+# Some API's with R interfaces
+Also, there is plenty of resource on API's
+* [twitter](https://dev.twitter.com/) and [twitteR](http://cran.r-project.org/web/packages/twitteR/index.html) package
+* [figshare](http://api.figshare.com/docs/intro.html) and [rfigshare](http://cran.r-project.org/web/packages/rfigshare/index.html)
+* [PLoS](http://api.plos.org/) and [rplos](http://cran.r-project.org/web/packages/rplos/rplos.pdf)
+* [rOpenSci](http://ropensci.org/packages/index.html)
+* [Facebook](https://developers.facebook.com/) and [RFacebook](http://cran.r-project.org/web/packages/Rfacebook/)
+* [Google maps](https://developers.google.com/maps/) and [RGoogleMaps](http://cran.r-project.org/web/packages/RgoogleMaps/index.html)
