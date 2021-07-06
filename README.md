@@ -22,3 +22,11 @@ The purpose of this repository is merely to point out to people some data availa
 # Gapminder
 Gapminder has a lot of data about development and human health
 * [http://www.gapminder.org/](http://www.gapminder.org/)
+
+
+# Survey data from the United States
+* [http://www.asdfree.com/](http://www.asdfree.com/)
+
+# Infochimps Marketplace
+Infochimps has different datasets that people can access (some maybe paid)
+* [http://www.infochimps.com/marketplace](http://www.infochimps.com/marketplace)
