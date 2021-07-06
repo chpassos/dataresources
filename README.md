@@ -18,3 +18,6 @@ The purpose of this repository is merely to point out to people some data availa
 * Hong Kong [http://www.gov.hk/en/theme/psi/datasets/](http://www.gov.hk/en/theme/psi/datasets/)
 * Japan [http://www.data.go.jp/](http://www.data.go.jp/)
 * Many more [http://www.data.gov/opendatasites](http://www.data.gov/opendatasites)
+
+# Gapminder
+* [http://www.gapminder.org/](http://www.gapminder.org/)
