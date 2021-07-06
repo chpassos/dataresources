@@ -2,6 +2,7 @@
 Data available online 
 
 The purpose of this repository is merely to point out to people some data available online that anyone can access and start their own data science projects.
+
 These resources were taken in [this repository](https://github.com/DataScienceSpecialization/courses/blob/master/03_GettingData/04_05_dataResources/index.Rmd) from Jeef Leek, during a class in the [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) course, available on Coursera
 
 # Internation Group of discussion on Data Science
