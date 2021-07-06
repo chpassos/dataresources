@@ -2,6 +2,7 @@
 Data available online 
 
 The purpose of this repository is merely to point out to people some data available online that anyone can access and start their own data science projects.
+These resources were taken in [this repository](https://github.com/DataScienceSpecialization/courses/blob/master/03_GettingData/04_05_dataResources/index.Rmd) from Jeef Leek, during a class in the [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) course, available on Coursera
 
 # Internation Group of discussion on Data Science
 - Follow these [instructions](https://medium.com/@kierisi/r4ds-the-next-iteration-d51e0a1b0b82) to be part of it!
@@ -34,4 +35,12 @@ Infochimps has different datasets that people can access (some maybe paid)
 # Kaggle
 Kaggle is a company that provides data science competitions. They offer datasets to be analysed in these competitions, some of which can be particularly useful  
 * [http://www.kaggle.com/](http://www.kaggle.com/)
+
+## Collections by data scientists
+
+* Hilary Mason http://bitly.com/bundles/hmason/1
+* Peter Skomoroch https://delicious.com/pskomoroch/dataset
+* Jeff Hammerbacher http://www.quora.com/Jeff-Hammerbacher/Introduction-to-Data-Science-Data-Sets
+* Gregory Piatetsky-Shapiro http://www.kdnuggets.com/gps.html
+* [http://blog.mortardata.com/post/67652898761/6-dataset-lists-curated-by-data-scientists](http://blog.mortardata.com/post/67652898761/6-dataset-lists-curated-by-data-scientists)
 
