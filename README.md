@@ -30,3 +30,8 @@ Gapminder has a lot of data about development and human health
 # Infochimps Marketplace
 Infochimps has different datasets that people can access (some maybe paid)
 * [http://www.infochimps.com/marketplace](http://www.infochimps.com/marketplace)
+
+# Kaggle
+Kaggle is a company that provides data science competitions. They offer datasets to be analysed in these competitions, some of which can be particularly useful  
+* [http://www.kaggle.com/](http://www.kaggle.com/)
+
