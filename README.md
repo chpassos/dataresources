@@ -20,4 +20,5 @@ The purpose of this repository is merely to point out to people some data availa
 * Many more [http://www.data.gov/opendatasites](http://www.data.gov/opendatasites)
 
 # Gapminder
+Gapminder has a lot of data about development and human health
 * [http://www.gapminder.org/](http://www.gapminder.org/)
